@@ -1,2 +1,3 @@
-# aprendizado_java
-um pouco do exercios que estou fazendo, assim tentando aprender a programar; 
+# aprendizado-java
+
+Lista de Exercícios sugeridos pelo https://wiki.python.org.br/ListaDeExercicios, assim feito em JAVA, para desenvolvimento e apredizado.
